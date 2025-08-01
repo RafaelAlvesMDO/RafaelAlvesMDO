@@ -1,8 +1,8 @@
-# 👋 Olá, eu sou Rafael!
+# 👋 Olá Viajante, eu sou Rafael!
 
-🎓 **Estudante de Sistemas de Informação** | 💻 **Desenvolvedor Back-End em formação**
+🎓 **Estudante de Sistemas de Informação - Centro Universitário CESMAC** | 💻 **Desenvolvedor Back-End em formação** | 🇧🇷 **Brasileiro**
 
-Sou apaixonado por tecnologia e atualmente estou focado em me especializar no **desenvolvimento back-end** utilizando **Java** e **PHP/Laravel**. Busco constantemente aprimorar meus conhecimentos e construir projetos que resolvam problemas reais.
+Sou apaixonado por tecnologia e atualmente estou focado em me especializar no **desenvolvimento back-end** utilizando **PHP/Laravel**, mas são um grande fã de Java. Atualmente no **6° Período** da Faculdade buscando constantemente aprimorar meus conhecimentos e construir projetos que resolvam problemas reais.
 
 ---
 
@@ -21,17 +21,20 @@ Sou apaixonado por tecnologia e atualmente estou focado em me especializar no **
 ### Outras Tecnologias
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ## 🛠 Projetos em Destaque
 
-- **[Sistema de Locação de Quartos](https://github.com/seuusuario/seurepositorio)**  
-  Sistema em **Laravel** com autenticação, cadastro de locadores/locatários e integração com banco **PostgreSQL**.
+- **[IsTudent - Sistema de Locação de Quartos Universitários](https://github.com/RafaelAlvesMDO/IsTudent)**  
+  Sistema em **Laravel** com autenticação, cadastro de locadores/locatários e integração com banco **PostgreSQL**. Projeto para fins educativos e de aprendizado sem fins lucrativos.
 
-- **[Projeto em Java](https://github.com/seuusuario/seurepositorio)**  
-  Aplicação voltada para aprendizado de conceitos avançados de **POO** e boas práticas em Java.
+- **[L&L Kids - Sistema de Gerenciamento de Clientes](EM BREVE)**  
+  Sistema em desenvolvimento utilizando **PHP** e **Laravel**, voltado para o gerenciamento de clientes de uma empresa de festas infantis. O objetivo é permitir o controle em tempo real das crianças que estão brincando, registrando horário de entrada e saída, além de informações sobre status de pagamento.
+
+O projeto está em fase inicial de planejamento e implementação, com foco em facilitar o monitoramento e a organização das atividades do espaço infantil.
+
+Instagram L&L Kids: https://www.instagram.com/ll_kids/
 
 ---
 
