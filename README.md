@@ -41,8 +41,8 @@ Sou apaixonado por tecnologia e atualmente estou focado em me especializar no **
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical" alt="Linguagens mais usadas" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rafael Alves&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael Alves&layout=compact&theme=radical" alt="Linguagens mais usadas" height="165"/>
 </p>
 
 ---
