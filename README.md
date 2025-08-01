@@ -32,9 +32,9 @@ Sou apaixonado por tecnologia e atualmente estou focado em me especializar no **
 - **[L&L Kids - Sistema de Gerenciamento de Clientes](EM BREVE)**  
   Sistema em desenvolvimento utilizando **PHP** e **Laravel**, voltado para o gerenciamento de clientes de uma empresa de festas infantis. O objetivo é permitir o controle em tempo real das crianças que estão brincando, registrando horário de entrada e saída, além de informações sobre status de pagamento.
 
-O projeto está em fase inicial de planejamento e implementação, com foco em facilitar o monitoramento e a organização das atividades do espaço infantil.
+  O projeto está em fase inicial de planejamento e implementação, com foco em facilitar o monitoramento e a organização das atividades do espaço infantil.
 
-Instagram L&L Kids: https://www.instagram.com/ll_kids/
+  Instagram L&L Kids: https://www.instagram.com/ll_kids/
 
 ---
 
