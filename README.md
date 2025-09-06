@@ -32,6 +32,7 @@ Sou apaixonado por tecnologia e atualmente estou focado em me especializar no **
   Sistema em **Laravel** com autenticação, cadastro de locadores/locatários e integração com banco **PostgreSQL**. Projeto para fins educativos e de aprendizado sem fins lucrativos.
 
 - **[L&L Kids – Sistema de Gerenciamento de Clientes (Em Andamento)**
+
   Sistema em desenvolvimento com arquitetura separada de front-end e back-end, voltado para o gerenciamento de clientes de uma empresa de festas infantis.
   
   -> **Back-end:** API REST desenvolvida em PHP e Laravel, responsável por autenticação, controle de acesso e registro das informações.
