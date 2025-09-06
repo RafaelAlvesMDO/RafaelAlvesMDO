@@ -41,7 +41,7 @@ Sou apaixonado por tecnologia e atualmente estou focado em me especializar no **
 
   -> **Objetivo:** Facilitar o monitoramento e organização das atividades do espaço infantil, garantindo mais agilidade e clareza no atendimento.
 
-📷 **Instagram do Cliente:** instagram.com/ll_kids
+📷 **[Instagram L&L Kids](https://instagram.com/ll_kids)**
 
 ---
 
