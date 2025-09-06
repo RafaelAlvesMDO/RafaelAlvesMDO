@@ -3,10 +3,9 @@
 🎓 **Estudante de Sistemas de Informação - Centro Universitário CESMAC** | 💻 **Desenvolvedor Back-End em formação** | 🇧🇷 **Brasileiro**
 
 ---
+## 🧰 Development Stack  
 
-<p align="center">
-  ## 🧰 Development Stack  
-  
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,php,react,laravel,tailwind,postgres,docker,git" />
   </a>
