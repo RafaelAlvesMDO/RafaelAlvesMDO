@@ -4,14 +4,13 @@
 
 ---
 
-## 🧰 Development Stack  
-
 <p align="center">
+  ## 🧰 Development Stack  
+  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,php,react,laravel,tailwind,postgres,docker,git" />
   </a>
 </p>
-
 
 ---
 
