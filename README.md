@@ -14,6 +14,8 @@ Sou apaixonado por tecnologia e atualmente estou focado em me especializar no **
 
 ### Frameworks
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -29,12 +31,16 @@ Sou apaixonado por tecnologia e atualmente estou focado em me especializar no **
 - **[IsTudent - Sistema de Locação de Quartos Universitários](https://github.com/RafaelAlvesMDO/IsTudent)**  
   Sistema em **Laravel** com autenticação, cadastro de locadores/locatários e integração com banco **PostgreSQL**. Projeto para fins educativos e de aprendizado sem fins lucrativos.
 
-- **[L&L Kids - Sistema de Gerenciamento de Clientes](EM BREVE)**  
-  Sistema em desenvolvimento utilizando **PHP** e **Laravel**, voltado para o gerenciamento de clientes de uma empresa de festas infantis. O objetivo é permitir o controle em tempo real das crianças que estão brincando, registrando horário de entrada e saída, além de informações sobre status de pagamento.
+- - **[L&L Kids – Sistema de Gerenciamento de Clientes (Em Andamento)**
+  Sistema em desenvolvimento com arquitetura separada de front-end e back-end, voltado para o gerenciamento de clientes de uma empresa de festas infantis.
 
-  O projeto está em fase inicial de planejamento e implementação, com foco em facilitar o monitoramento e a organização das atividades do espaço infantil.
+  -> **Back-end:** API REST desenvolvida em PHP e Laravel, responsável por autenticação, controle de acesso e registro das informações.
 
-  Instagram L&L Kids: https://www.instagram.com/ll_kids/
+  -> **Front-end:** Interface responsiva construída com React.js e TailwindCSS, consumindo os dados da API para exibir em tempo real o controle de entrada, saída e status de pagamento das crianças.
+
+  -> **Objetivo:** Facilitar o monitoramento e organização das atividades do espaço infantil, garantindo mais agilidade e clareza no atendimento.
+
+📷 **Instagram do Cliente:** instagram.com/ll_kids
 
 ---
 
