@@ -29,7 +29,7 @@
 - **[IsTudent - Sistema de Locação de Quartos Universitários](https://github.com/RafaelAlvesMDO/IsTudent)**  
   Sistema em **Laravel** com autenticação, cadastro de locadores/locatários e integração com banco **PostgreSQL**. Projeto para fins educativos e de aprendizado sem fins lucrativos.
 
-- **[L&L Kids – Sistema de Gerenciamento de Clientes (Em Andamento)**
+- **[L&L Kids – Sistema de Gerenciamento de Clientes (Em desenvolvimento)**
 
   Sistema em desenvolvimento com arquitetura separada de front-end e back-end, voltado para o gerenciamento de clientes de uma empresa de festas infantis.
   
