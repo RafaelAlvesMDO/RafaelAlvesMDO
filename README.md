@@ -1,17 +1,17 @@
-# 👋 Olá Viajante, eu sou Rafael!
+# 👋 Hello, Traveler! I'm Rafael!
 
-🎓 **Estudante de Sistemas de Informação - Centro Universitário CESMAC** | 💻 **Desenvolvedor Full Stack em formação** | 🇧🇷 **Brasileiro**
+🎓 **Information Systems Student – CESMAC University Center** | 💻 **Full Stack Developer in Training** | 🇧🇷 **Brazilian**
 
 ---
 ## 🧰 Development Stack  
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,php,react,laravel,tailwind,postgres,docker,git" />
+    <img src="https://skillicons.dev/icons?i=ts,php,react,laravel,tailwind,postgres,docker,git" />
   </a>
 </p>
 
-## 📞 Contato
+## 📞 Contact
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rafaelalvesmdo/" target="_blank">
