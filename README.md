@@ -1,6 +1,6 @@
 # 👋 Hello, Traveler! I'm Rafael!
 
-🎓 **Information Systems Student – CESMAC University Center** | 💻 **Full Stack Developer in Training** | 🇧🇷 **Brazilian**
+🎓 **Information Systems Student – CESMAC University Center** | 💻 **Full Stack Developer** | 🇧🇷 **Brazilian**
 
 ---
 ## 🧰 Development Stack  
